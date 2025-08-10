@@ -23,7 +23,7 @@ Here you’ll find selected projects that demonstrate my skills in Python, SQL, 
 - Built a one-page interactive Power BI dashboard with KPIs, revenue trends, category breakdown, and geographic sales mapping.  
 - Delivered insights on top customers, category revenue share, and shipping lead times.
 
-[**View Project Repository →**](https://github.com/YOUR_USERNAME/sql-data-exploration)
+[**View Project Repository →**](https://github.com/b4tyr4li/sql-data-exploration)
 ![Northwind Dashboard Preview](bi/figures/01_dashboard_full.png)
 ---
 
