@@ -17,14 +17,14 @@ Here you’ll find selected projects that demonstrate my skills in Python, SQL, 
 
 ---
 
-### 2. SQL Data Exploration *(Coming Soon)*
-**Stack:** MySQL/SQLite, Power BI  
-- Designing a relational database from a public dataset.
-- Writing 10–15 analytical queries.
-- Creating a 1-page Power BI dashboard.
+### 2. Northwind SQL + Power BI Dashboard
+**Stack:** SQL Server (SSMS), Power BI  
+- Designed and executed 12 SQL queries to analyze sales, customers, products, and shipping performance.  
+- Built a one-page interactive Power BI dashboard with KPIs, revenue trends, category breakdown, and geographic sales mapping.  
+- Delivered insights on top customers, category revenue share, and shipping lead times.
 
-[**View Project Repository →**](https://github.com/b4tyr4li/sql-data-exploration)
-
+[**View Project Repository →**](https://github.com/YOUR_USERNAME/sql-data-exploration)
+![Northwind Dashboard Preview](bi/figures/01_dashboard_full.png)
 ---
 
 ### 3. Python EDA Template *(Coming Soon)*
