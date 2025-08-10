@@ -27,14 +27,6 @@ Here you’ll find selected projects that demonstrate my skills in Python, SQL, 
 
 ---
 
-### 3. Python EDA Template *(Coming Soon)*
-**Stack:** Python (Pandas, NumPy, Seaborn, Plotly)  
-- Reusable exploratory analysis template for any dataset.
-- Includes profiling, correlation, and visual summaries.
-
-[**View Project Repository →**](https://github.com/b4tyr4li/python-eda-template)
-
----
 
 ## 🛠️ Tools & Skills
 Python · SQL · Power BI · Excel (VBA) · SPSS · Git/GitHub
