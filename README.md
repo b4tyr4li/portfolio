@@ -27,6 +27,16 @@ Here you’ll find selected projects that demonstrate my skills in Python, SQL, 
 
 ---
 
+### 3. Automated Sales Reporting with Excel VBA
+**Stack:** Microsoft Excel (VBA), Pivot Tables, Charts  
+- Developed a one-click macro to import, clean, and consolidate monthly sales CSVs.  
+- Automated KPI calculation (Total Sales, Orders, AOV, Profit) and pivot chart generation.  
+- Exported a polished PDF report for management.  
+
+[**View Project Repository →**](https://github.com/b4tyr4li/excel-vba-automation)
+
+---
+
 
 ## 🛠️ Tools & Skills
 Python · SQL · Power BI · Excel (VBA) · SPSS · Git/GitHub
